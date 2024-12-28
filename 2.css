@@ -1,0 +1,42 @@
+body{
+    background-color: blue;
+}
+.a{
+    background-color: blue;
+    position: relative;
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+
+}
+.fa-brands{
+    color: white;
+    position: relative;
+    font-size: 60px;
+    justify-content: center;
+    align-items: center;
+    left: 140px;
+}
+input{
+    width: 300px;
+    margin: 3px;
+}
+.shokh{
+    width: 305px;
+    margin: 5px;
+    background-color: aqua;
+}
+button{
+    background-color: aqua;
+    margin: 5px;
+    width: 305px;
+}
+p{
+    position: relative;
+    left: 100px;
+    color: white;
+}
+.mol{
+    position: relative;
+    left: 115px;
+}
